@@ -7,7 +7,7 @@
   "adunitid": "",
   "nav": {
     "home": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/homes/menu.json",
-    "cobertura": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/cobertura/homes/cobertura.json",
+    "cobertura": "https://pruebasazteca.github.io/adn/coberturas.json",
     "videoteca": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/videoteca/homes/videoteca.json",
     "podcast": "Url json podcast",
     "configuracion": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/configuracion/config.json"
