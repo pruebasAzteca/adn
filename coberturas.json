@@ -20,7 +20,7 @@
       "subtitulo": "Toda la informaciÃ³n del proceso electoral y la asunciÃ³n de Joe Biden como presidente de Estados Unidos",
       "subtitulocolorLM": "#1D1D1D",
       "subtitulocolorDM": "",
-      "tipo": "L",
+      "tipocontenido": "L",
       "contenido": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/cobertura/homes/biden-presidente.json",
       "btndetalle": "Ver todo",
       "btndetallecolorLM": "#F96B07",
