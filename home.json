@@ -1,0 +1,43 @@
+{
+  "firebase": {
+    "nombre_contenido": "",
+    "tipo_contenido": "Home",
+    "subsubseccion": "",
+    "subseccion": "",
+    "programa": "",
+    "firebaseScreen": "Home",
+    "seccion": ""
+  },
+  "items": [
+    {
+      "titulo": "Noticias",
+      "titulocolorLM": "#F96B07",
+      "titulocolorDM": "",
+      "icono": "e90a",
+      "iconocolorLM": "#ECF0F3",
+      "iconocolorDM": "",
+      "contenido": "https://pruebasazteca.github.io/adn/actualidad.json",
+      "tipocontenido": "L"
+    },
+    {
+      "titulo": "Para Ti",
+      "titulocolorLM": "#1D1D1D",
+      "titulocolorDM": "",
+      "icono": "e90c",
+      "iconocolorLM": "#ECF0F3",
+      "iconocolorDM": "",
+      "contenido": "https://tigsnwe63f.execute-api.us-east-1.amazonaws.com/dev/personaliza?cogId={[COGID]}&device={[DEVICE]}",
+      "tipocontenido": "L"
+    },
+    {
+      "titulo": "Explora",
+      "titulocolorLM": "#1D1D1D",
+      "titulocolorDM": "",
+      "icono": "e913",
+      "iconocolorLM": "#ECF0F3",
+      "iconocolorDM": "",
+      "contenido": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/homes/busquedasecciones.json",
+      "tipocontenido": "L"
+    }
+  ]
+}
