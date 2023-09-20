@@ -78,7 +78,7 @@
           "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-interno-obligatorio.json",
           "firebase": {
             "nombre_video": "MÃ©xico en Tiempo Real con SarahÃ­ Uribe - Live",
-            "islive": "false",
+            "islive": "true",
             "subsubseccion": "",
             "subseccion": "",
             "programa": "",
@@ -113,7 +113,7 @@
           "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-interno-obligatorio.json",
           "firebase": {
             "nombre_video": "Adn40.mx con Romina Ramos y Tania GÃ³mez - Live",
-            "islive": "false",
+            "islive": "true",
             "subsubseccion": "",
             "subseccion": "",
             "programa": "",
