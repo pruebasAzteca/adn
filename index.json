@@ -1,5 +1,5 @@
 {
-  "envivo": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/vivo/live.json",
+  "envivo": "https://pruebasazteca.github.io/adn/vivo.json",
   "secciones": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/configuracion/personalizacion.json",
   "configura": "https://tigsnwe63f.execute-api.us-east-1.amazonaws.com/dev/personaliza",
   "login": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/login.json",
