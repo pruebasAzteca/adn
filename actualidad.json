@@ -6,7 +6,7 @@
         {
           "celda": "CELIMG01",
           "id": "00000181-9c1f-df11-afaf-bc3f0d440000",
-          "titulo": "Sacerdotes jesuitas serÃ¡n enterrados en la iglesia donde fueron asesinados",
+          "titulo": "Jesus tirado con Login",
           "titulocolorLM": "#FFFFFF",
           "titulocolorDM": "",
           "fecha": "27 junio 2022",
@@ -33,8 +33,10 @@
           "tipo": "N",
           "icono": "e900",
           "contenido": "https://www.tvazteca.com/adnapp/mexico/bombardeo-de-nubes-chihuahua-lluvia-lmo",
+          "private": "1",
+          "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-interno-obligatorio.json",
           "firebase": {
-            "nombre_contenido": "Sacerdotes jesuitas serÃ¡n enterrados en la iglesia donde fueron asesinados",
+            "nombre_contenido": "Jesus tirado con Login",
             "tipo_contenido": "Article",
             "subsubseccion": "",
             "subseccion": "",
