@@ -6,7 +6,7 @@
   "behavioral": "https://tigsnwe63f.execute-api.us-east-1.amazonaws.com/dev/behavior",
   "adunitid": "",
   "nav": {
-    "home": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/homes/menu.json",
+    "home": "https://pruebasazteca.github.io/adn/home.json",
     "adn_radio": "https://pruebasazteca.github.io/adn/radio.json",
     "videoteca": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/videoteca/homes/videoteca.json",
     "podcast": "Url json podcast",
