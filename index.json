@@ -1,15 +1,16 @@
 {
-  "envivo": "https://pruebasazteca.github.io/adn/vivo.json",
+  "ultimaGeneracion": "2023-09-27 13:49:03",
+  "envivo": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/vivo/live.json",
   "secciones": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/configuracion/personalizacion.json",
   "configura": "https://tigsnwe63f.execute-api.us-east-1.amazonaws.com/dev/personaliza",
   "login": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/login.json",
   "behavioral": "https://tigsnwe63f.execute-api.us-east-1.amazonaws.com/dev/behavior",
   "adunitid": "",
   "nav": {
-    "home": "https://pruebasazteca.github.io/adn/home.json",
-    "adn_radio": "https://pruebasazteca.github.io/adn/radio.json",
+    "home": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/homes/menu.json",
+    "cobertura": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/cobertura/homes/cobertura.json",
     "videoteca": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/videoteca/homes/videoteca.json",
-    "podcast": "Url json podcast",
+    "adn_radio": "https://pruebasazteca.github.io/adn/radio.json",
     "configuracion": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/configuracion/config.json"
   },
   "prebid": {
