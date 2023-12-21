@@ -10,33 +10,133 @@
   },
   "items": [
     {
-      "titulo": "Noticias",
+      "titulo": "Hoy",
       "titulocolorLM": "#F96B07",
       "titulocolorDM": "",
       "icono": "e90a",
       "iconocolorLM": "#ECF0F3",
       "iconocolorDM": "",
-      "contenido": "https://pruebasazteca.github.io/adn/actualidad.json",
+      "contenido": "https://pruebasazteca.github.io/adn/hoy.json",
       "tipocontenido": "L"
     },
     {
-      "titulo": "Para Ti",
-      "titulocolorLM": "#1D1D1D",
+      "titulo": "Podcast",
+      "titulocolorLM": "#F96B07",
       "titulocolorDM": "",
-      "icono": "e90c",
+      "icono": "e90a",
       "iconocolorLM": "#ECF0F3",
       "iconocolorDM": "",
-      "contenido": "https://tigsnwe63f.execute-api.us-east-1.amazonaws.com/dev/personaliza?cogId={[COGID]}&device={[DEVICE]}",
+      "contenido": "https://pruebasazteca.github.io/adn/podcast.json",
       "tipocontenido": "L"
     },
     {
-      "titulo": "Explora",
-      "titulocolorLM": "#1D1D1D",
+      "titulo": "Poder",
+      "titulocolorLM": "#F96B07",
       "titulocolorDM": "",
-      "icono": "e913",
+      "icono": "e90a",
       "iconocolorLM": "#ECF0F3",
       "iconocolorDM": "",
-      "contenido": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/homes/busquedasecciones.json",
+      "contenido": "https://pruebasazteca.github.io/adn/poder.json",
+      "tipocontenido": "L"
+    },
+    {
+      "titulo": "México",
+      "titulocolorLM": "#F96B07",
+      "titulocolorDM": "",
+      "icono": "e90a",
+      "iconocolorLM": "#ECF0F3",
+      "iconocolorDM": "",
+      "contenido": "https://pruebasazteca.github.io/adn/mexico.json",
+      "tipocontenido": "L"
+    },
+    {
+      "titulo": "Finanzas",
+      "titulocolorLM": "#F96B07",
+      "titulocolorDM": "",
+      "icono": "e90a",
+      "iconocolorLM": "#ECF0F3",
+      "iconocolorDM": "",
+      "contenido": "https://pruebasazteca.github.io/adn/hoy.json",
+      "tipocontenido": "L"
+    },
+    {
+      "titulo": "Internacional",
+      "titulocolorLM": "#F96B07",
+      "titulocolorDM": "",
+      "icono": "e90a",
+      "iconocolorLM": "#ECF0F3",
+      "iconocolorDM": "",
+      "contenido": "https://pruebasazteca.github.io/adn/hoy.json",
+      "tipocontenido": "L"
+    },
+    {
+      "titulo": "Ciudad",
+      "titulocolorLM": "#F96B07",
+      "titulocolorDM": "",
+      "icono": "e90a",
+      "iconocolorLM": "#ECF0F3",
+      "iconocolorDM": "",
+      "contenido": "https://pruebasazteca.github.io/adn/hoy.json",
+      "tipocontenido": "L"
+    },
+    {
+      "titulo": "Seguridad",
+      "titulocolorLM": "#F96B07",
+      "titulocolorDM": "",
+      "icono": "e90a",
+      "iconocolorLM": "#ECF0F3",
+      "iconocolorDM": "",
+      "contenido": "https://pruebasazteca.github.io/adn/hoy.json",
+      "tipocontenido": "L"
+    },
+    {
+      "titulo": "Es tendencia",
+      "titulocolorLM": "#F96B07",
+      "titulocolorDM": "",
+      "icono": "e90a",
+      "iconocolorLM": "#ECF0F3",
+      "iconocolorDM": "",
+      "contenido": "https://pruebasazteca.github.io/adn/hoy.json",
+      "tipocontenido": "L"
+    },
+    {
+      "titulo": "Pop",
+      "titulocolorLM": "#F96B07",
+      "titulocolorDM": "",
+      "icono": "e90a",
+      "iconocolorLM": "#ECF0F3",
+      "iconocolorDM": "",
+      "contenido": "https://pruebasazteca.github.io/adn/hoy.json",
+      "tipocontenido": "L"
+    },
+    {
+      "titulo": "Salud",
+      "titulocolorLM": "#F96B07",
+      "titulocolorDM": "",
+      "icono": "e90a",
+      "iconocolorLM": "#ECF0F3",
+      "iconocolorDM": "",
+      "contenido": "https://pruebasazteca.github.io/adn/hoy.json",
+      "tipocontenido": "L"
+    },
+    {
+      "titulo": "Ciencia",
+      "titulocolorLM": "#F96B07",
+      "titulocolorDM": "",
+      "icono": "e90a",
+      "iconocolorLM": "#ECF0F3",
+      "iconocolorDM": "",
+      "contenido": "https://pruebasazteca.github.io/adn/hoy.json",
+      "tipocontenido": "L"
+    },
+    {
+      "titulo": "Especiales",
+      "titulocolorLM": "#F96B07",
+      "titulocolorDM": "",
+      "icono": "e90a",
+      "iconocolorLM": "#ECF0F3",
+      "iconocolorDM": "",
+      "contenido": "https://pruebasazteca.github.io/adn/hoy.json",
       "tipocontenido": "L"
     }
   ]
