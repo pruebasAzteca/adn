@@ -17,7 +17,12 @@
       "iconocolorLM": "#ECF0F3",
       "iconocolorDM": "",
       "contenido": "https://pruebasazteca.github.io/adn/hoy.json",
-      "tipocontenido": "L"
+      "tipocontenido": "L",
+      "breakingnews": {
+        "texto": "Alerta adn40",
+        "titulo": "ContaminaciÃ³n alcanza los 158 puntos de ozono Â¿HabrÃ¡ doble Hoy No Circula?",
+        "url": "https://uat.tv-azteca.psdops.com/adn40/ciudad/calidad-del-aire-cdmx-altos-niveles-contaminacion-20-nov"
+      }
     },
     {
       "titulo": "Podcast",
