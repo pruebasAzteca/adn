@@ -11,7 +11,7 @@
     "cobertura": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/UAT/cobertura/homes/cobertura.json",
     "videoteca": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/UAT/videoteca/homes/videoteca.json",
     "podcast": "Url json podcast",
-    "envivo": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/UAT/vivo/live.json"
+    "envivo": "https://pruebasazteca.github.io/adn/vivo.json"
   },
   "prebid": {
     "shared_domain": "www.adn40.mx",
