@@ -1,6 +1,6 @@
 {
   "ultimaGeneracion": "2023-09-27 13:49:03",
-  "envivo": "https://pruebasazteca.github.io/adn/vivo.json",
+  "envivo": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/vivo/live.json",
   "secciones": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/configuracion/personalizacion.json",
   "configura": "https://tigsnwe63f.execute-api.us-east-1.amazonaws.com/dev/personaliza",
   "login": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/login.json",
@@ -10,8 +10,8 @@
     "home": "https://pruebasazteca.github.io/adn/home.json",
     "cobertura": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/UAT/cobertura/homes/cobertura.json",
     "videoteca": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/UAT/videoteca/homes/videoteca.json",
-    "podcast": "Url json podcast",
-    "envivo": "https://pruebasazteca.github.io/adn/vivo.json"
+    "adn_radio": "https://pruebasazteca.github.io/adn/radio.json",
+    "envivo": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/UAT/vivo/live.json"
   },
   "prebid": {
     "shared_domain": "www.adn40.mx",
