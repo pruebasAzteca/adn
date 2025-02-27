@@ -9,7 +9,6 @@
   "nav": {
     "home": "https://pruebasazteca.github.io/adn/home.json",
     "cobertura": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/UAT/cobertura/homes/cobertura.json",
-    "videoteca": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/UAT/videoteca/homes/videoteca.json",
     "adn_radio": "https://pruebasazteca.github.io/adn/radio.json",
     "envivo": "https://s3.amazonaws.com/4pp.adn40.com/app/2020/UAT/vivo/live.json"
   },
