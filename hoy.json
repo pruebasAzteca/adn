@@ -2,6 +2,43 @@
   "ultimaGeneracion": "2023-12-21 16:12:11",
   "items": [
     {
+      "celda": "LIVE_PREVIEW",
+      "titulo": "PROGRAMACIÃ“N",
+      "items": [
+        {
+          "celda": "VIVOREL",
+          "titulo": "MÃ©xico en Tiempo Real con SarahÃ­ Uribe",
+          "titulocolorLM": "#FFFFFF",
+          "titulocolorDM": "",
+          "subtitulo": "Toda la InformaciÃ³n de la repÃºblica mexicana en tiempo real",
+          "subtitulocolorLM": "#FFFFFF",
+          "programaTitulo": "MÃ©xico en Tiempo Real con SarahÃ­ Uribe",
+          "programaDescr": "Toda la InformaciÃ³n de la repÃºblica mexicana en tiempo real",
+          "fecha": "07 febrero 2024",
+          "fechacolorLM": "#FFFFFF",
+          "fechacolorDM": "",
+          "hora": "12:00 Hrs.",
+          "horacolorLM": "#FFFFFF",
+          "horacolorDM": "",
+          "tipo": "V",
+          "contenido": "",
+          "imagen": "https://tv-azteca-brightspot.s3.amazonaws.com/program_schedule/img/173542_1.jpg",
+          "icono": "",
+          "iconocolorLM": "#FFFFFF",
+          "iconocolorDM": "",
+          "iconocolorbgLM": "#ECF0F3",
+          "iconocolorbgDM": "",
+          "firebase": {
+            "nombre_video": "MÃ©xico en Tiempo Real con SarahÃ­ Uribe - Live",
+            "islive": "false",
+            "subsubseccion": "",
+            "subseccion": "",
+            "programa": "",
+            "firebaseScreen": "Live - MÃ©xico en Tiempo Real con SarahÃ­ Uribe",
+            "seccion": ""
+          }
+        },
+    {
       "celda": "CELB01",
       "id": "0000018c-83c0-d4ff-a9fe-dfc0d91c0000",
       "titulo": "AsÃ­ funciona el alcoholÃ­metro 24 horas en CDMX",
