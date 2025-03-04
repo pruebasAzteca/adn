@@ -3,41 +3,10 @@
   "items": [
     {
       "celda": "LIVE_PREVIEW",
-      "titulo": "PROGRAMACIÃ“N",
-      "items": [
-        {
-          "celda": "VIVOREL",
-          "titulo": "MÃ©xico en Tiempo Real con SarahÃ­ Uribe",
-          "titulocolorLM": "#FFFFFF",
-          "titulocolorDM": "",
-          "subtitulo": "Toda la InformaciÃ³n de la repÃºblica mexicana en tiempo real",
-          "subtitulocolorLM": "#FFFFFF",
-          "programaTitulo": "MÃ©xico en Tiempo Real con SarahÃ­ Uribe",
-          "programaDescr": "Toda la InformaciÃ³n de la repÃºblica mexicana en tiempo real",
-          "fecha": "07 febrero 2024",
-          "fechacolorLM": "#FFFFFF",
-          "fechacolorDM": "",
-          "hora": "12:00 Hrs.",
-          "horacolorLM": "#FFFFFF",
-          "horacolorDM": "",
-          "tipo": "V",
-          "contenido": "",
-          "imagen": "https://tv-azteca-brightspot.s3.amazonaws.com/program_schedule/img/173542_1.jpg",
-          "icono": "",
-          "iconocolorLM": "#FFFFFF",
-          "iconocolorDM": "",
-          "iconocolorbgLM": "#ECF0F3",
-          "iconocolorbgDM": "",
-          "firebase": {
-            "nombre_video": "MÃ©xico en Tiempo Real con SarahÃ­ Uribe - Live",
-            "islive": "false",
-            "subsubseccion": "",
-            "subseccion": "",
-            "programa": "",
-            "firebaseScreen": "Live - MÃ©xico en Tiempo Real con SarahÃ­ Uribe",
-            "seccion": ""
-          }
-        },
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?sz=640x480&iu=/29782907/Apps-Azteca/App-ADN40/En-Vivo&impl=s&gdfp_req=1&env=vp&unviewed_position_start=1&cust_params=duration%3Dover5min%26Entre_ID%3D0_wzu4f3n8&ciu_szs&impl=s&gdfp_req=1&env=vp&output=vast&vid=0_wzu4f3n8&cmsid=[Placeholder]&unviewed_position_start=1&url=https://live.adn40.mx&description_url=https%3a%2f%2flive.adn40.mx&ad_rule=1&correlator=",
+      "titulo": "Adn Conmigo con Juan Pablo de Leo y Vaitiare Mateos",
+      "videoAssetId": "60b578b060947317de7b57ac"
+    },
     {
       "celda": "CELB01",
       "id": "0000018c-83c0-d4ff-a9fe-dfc0d91c0000",
